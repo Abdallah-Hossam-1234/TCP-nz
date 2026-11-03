@@ -1,2 +1,2 @@
-# VPN sn
-A Virtual Private Network sn (VPN)sn build using python or C++ or both.
+# TCP-nz
+A Transmission Control Protocol (TCP) build using python and cmd.
