@@ -158,13 +158,13 @@ def get_ip_by_hostname():
     
 # ================= GUI SETUP =================
 root = tk.Tk()
-root.title("TCP zu")
+root.title("TCP nz")
 root.geometry("400x550") 
 root.resizable(False, False)
 
 L1 = tk.Label(root, text="proxy ip", font=("Arial", 12))
 E1 = tk.Entry(root, width=40, font=("Arial", 12), justify="center")
-E1.insert(0, "127.0.0.1")
+E1.insert(0, "XXX.XXX.XXX.XXX")
 
 L2 = tk.Label(root, text="proxy port", font=("Arial", 12))
 E2 = tk.Entry(root, width=40, font=("Arial", 12), justify="center")
